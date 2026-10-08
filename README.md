@@ -77,3 +77,4 @@ Start the server, then open:
 ## Development notes
 
 The `npm test` script is currently a placeholder and does not run a test suite.
+# warehouse
